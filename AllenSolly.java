@@ -1,5 +1,5 @@
 class AllenSolly{
-	//For static varibles Declaration and Initialization varibles at same time...
+	//For static variables Declaration and Initialization variables at same time...
 	static String brand ="Allen Solly";
 	static String colour ="Green";
 	static String material ="Cotton";
